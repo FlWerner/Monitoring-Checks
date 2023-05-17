@@ -1,0 +1,4 @@
+Mar  1 00:01:13 TL-1757DD RSYSLOG:  Informational Event, Event Code: 0411001-9028, Event Description: Configuration backup to base module was successful, Detailed Information: ~SEVERITY=INFO~PHY_NUM=1
+Mar  1 04:18:16 TL-1757DD RSYSLOG:  Informational Event, Event Code: 0400001-9008, Event Description: The system time was synchronized with an NTP server, Detailed Information: ~VALUE_STRING=Retcode 0, info: ~PHY_NUM=1
+Mar  1 12:18:22 TL-1757DD RSYSLOG:  Informational Event, Event Code: 0400001-9008, Event Description: The system time was synchronized with an NTP server, Detailed Information: ~VALUE_STRING=Retcode 0, info: ~PHY_NUM=1
+
